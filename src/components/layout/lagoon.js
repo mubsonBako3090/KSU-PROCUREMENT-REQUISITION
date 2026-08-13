@@ -1,1 +1,1 @@
-// Placeholder file
+// placeholder for src/components/layout
